@@ -1,0 +1,22 @@
+
+.conteneur{
+    width : 500px;
+    display: flex;
+    flex-wrap: wrap;
+    margin : auto;
+    margin-top : 200px;
+    .pixel{
+        height : 20px;
+        width : 20px;
+        background-color : beige;
+    }
+    .point{
+        background-color : red;
+    }
+    .colored{
+        background-color: lightgreen;
+    }
+    .head{
+        background-color : rgb(114, 169, 12);
+    }
+}

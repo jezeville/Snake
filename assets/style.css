@@ -1,0 +1,21 @@
+.conteneur {
+  width: 500px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  margin-top: 200px;
+}
+.conteneur .pixel {
+  height: 20px;
+  width: 20px;
+  background-color: beige;
+}
+.conteneur .point {
+  background-color: red;
+}
+.conteneur .colored {
+  background-color: lightgreen;
+}
+.conteneur .head {
+  background-color: rgb(114, 169, 12);
+}/*# sourceMappingURL=style.css.map */
